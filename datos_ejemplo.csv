@@ -1,0 +1,10 @@
+codigo,punto,fecha,hora,utm_este,utm_norte,zona_utm,altitud,reactivos,observaciones,ph,conductividad,temperatura,sst,sdt,st,sulfito
+M-101,P-01 Aguas arriba,2026-09-15,08:30,366120,8016450,19K,850,Sin preservante (in situ); frasco HDPE 1 L para sólidos,"Día soleado, caudal bajo",7.42,1250.0,17.2,37.3,823.8,835.4,0.41
+M-102,P-02 Zona media,2026-09-15,10:05,364880,8013210,19K,720,"EDTA 0,5 mL (preservación de sulfito); frasco HDPE 1 L",Agua turbia,8.05,2111.0,18.5,68.8,1340.9,1414.1,0.81
+M-103,P-03 Aguas abajo,2026-09-15,11:40,362540,8010980,19K,610,"EDTA 0,5 mL; KI-KIO3 0,0125 N y almidón (titulación yodométrica)",Presencia de algas en orillas,8.28,2786.0,18.1,103.6,1869.3,1896.6,1.35
+M-201,P-01 Aguas arriba,2026-10-15,08:45,366120,8016450,19K,850,Sin preservante (in situ); frasco HDPE 1 L para sólidos,Agua turbia,7.63,1222.0,17.4,42.7,747.7,730.7,0.29
+M-202,P-02 Zona media,2026-10-15,10:20,364880,8013210,19K,720,"EDTA 0,5 mL (preservación de sulfito); frasco HDPE 1 L",Presencia de algas en orillas,7.85,1944.0,17.7,59.7,1270.3,1297.8,1.21
+M-203,P-03 Aguas abajo,2026-10-15,12:00,362540,8010980,19K,610,"EDTA 0,5 mL; KI-KIO3 0,0125 N y almidón (titulación yodométrica)","Día soleado, caudal bajo",8.25,2693.0,19.2,125.8,1747.9,1879.9,1.73
+M-301,P-01 Aguas arriba,2026-11-14,09:00,366120,8016450,19K,850,Sin preservante (in situ); frasco HDPE 1 L para sólidos,Presencia de algas en orillas,7.29,1103.0,18.0,53.6,719.5,775.8,0.27
+M-302,P-02 Zona media,2026-11-14,10:35,364880,8013210,19K,720,"EDTA 0,5 mL (preservación de sulfito); frasco HDPE 1 L","Día soleado, caudal bajo",7.96,2190.0,18.6,63.0,1473.6,1527.9,1.14
+M-303,P-03 Aguas abajo,2026-11-14,11:55,362540,8010980,19K,610,"EDTA 0,5 mL; KI-KIO3 0,0125 N y almidón (titulación yodométrica)",Agua turbia,8.23,2782.0,19.4,131.4,1864.0,1967.7,1.75
